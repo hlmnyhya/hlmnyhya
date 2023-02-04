@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi!:
 I'm a student <br>Studied at The State Polytechnic of Tanah Laut<br>
 
 
