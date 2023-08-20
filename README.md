@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hilmanadi Yahya</h1>
 <h3 align="center">I'm a Fullstack Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hlmnyhya99&label=Profile%20views&color=0e75b6&style=flat" alt="hlmnyhya99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hlmnyhya99" alt="hlmnyhya99" /></a> </p>
-
 - 🌱 I’m currently learning **devops and noc**
 
 - 📫 How to reach me **hilmanadiyahya@mediacomputer.tech and hlmnyhya99@gmail.com**
